@@ -25,7 +25,8 @@ Intialize node package manager and then run the following commands;
 ## Usage 
 
 In order to use the application, first ensure that MySQL is installed in your environment.    
-Then, from the project root folder enter the sql shell and run the following command:          
+Then, from the project root folder enter the sql shell and run the following commands:
+`mysql -u (password) -p`         
 `source db/schema.sql`        
 Exit the sql shell and return to the command line still within your root project folder.      
 Run the following commands;          
@@ -34,7 +35,7 @@ Run the following commands;
 
 
 ### Screenshots
-![App Screenshot]()
+https://drive.google.com/file/d/1Ge6aDvWVjbFqMh3n8SnNYZPaVZp8w72Q/view?usp=sharing
 Example of how to connect with server and mysql
 
 ![App Screenshot]()
