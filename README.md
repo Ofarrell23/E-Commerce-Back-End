@@ -35,7 +35,7 @@ Run the following commands;
 
 
 ### Screenshots
-![MySL Screenshoot](assets/mysql.gif)
+![MySL Screenshoot](/assets/mysl.gif)
 Example of how to connect with server and mysql
 
 ![App Screenshot]()
