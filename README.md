@@ -38,10 +38,7 @@ Run the following commands;
 ![MySL Screenshoot](/assets/mysl.gif)
 Example of how to connect with server and mysql
 
-![App Screenshot]()
-How to initiate server
-
-![Screenshot]()
+![App Screenshot](assets/Postman.gif)
 An example PUT/PULL/GET/DELTE
 
 ## Questions
