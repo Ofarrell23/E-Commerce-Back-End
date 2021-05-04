@@ -27,7 +27,10 @@ Intialize node package manager and then run the following commands;
 In order to use the application, first ensure that MySQL is installed in your environment.    
 Then, from the project root folder enter the sql shell and run the following commands:
 `mysql -u (password) -p`         
-`source db/schema.sql`        
+`source db/schema.sql`
+`show databases;`
+`quit`
+    
 Exit the sql shell and return to the command line still within your root project folder.      
 Run the following commands;          
 `npm run seed`    
