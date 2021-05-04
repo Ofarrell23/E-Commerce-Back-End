@@ -35,7 +35,7 @@ Run the following commands;
 
 
 ### Screenshots
-https://drive.google.com/file/d/1Ge6aDvWVjbFqMh3n8SnNYZPaVZp8w72Q/view?usp=sharing
+![MySL Screenshoot]((assets/mysql.gif)
 Example of how to connect with server and mysql
 
 ![App Screenshot]()
